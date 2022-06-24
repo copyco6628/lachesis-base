@@ -3,7 +3,7 @@ package skipkeys
 import (
 	"bytes"
 
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/copyco6628/lachesis-base/kvdb"
 )
 
 type Store struct {

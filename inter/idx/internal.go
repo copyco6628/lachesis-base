@@ -1,7 +1,7 @@
 package idx
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/common/bigendian"
+	"github.com/copyco6628/lachesis-base/common/bigendian"
 )
 
 type (
