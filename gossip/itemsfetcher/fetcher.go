@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/utils/wlru"
-	"github.com/Fantom-foundation/lachesis-base/utils/workers"
+	"github.com/copyco6628/lachesis-base/utils/wlru"
+	"github.com/copyco6628/lachesis-base/utils/workers"
 )
 
 /*

@@ -9,10 +9,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/dagstream"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/utils/workers"
+	"github.com/copyco6628/lachesis-base/gossip/dagstream"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/utils/workers"
 )
 
 var (

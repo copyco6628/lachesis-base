@@ -4,13 +4,13 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/flushable"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/dag"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/pos"
+	"github.com/copyco6628/lachesis-base/kvdb"
+	"github.com/copyco6628/lachesis-base/kvdb/flushable"
+	"github.com/copyco6628/lachesis-base/kvdb/table"
 )
 
 type Callbacks struct {

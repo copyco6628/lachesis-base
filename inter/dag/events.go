@@ -3,8 +3,8 @@ package dag
 import (
 	"strings"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 )
 
 // Events is a ordered slice of events.

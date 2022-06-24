@@ -3,8 +3,8 @@ package vecengine
 import (
 	"errors"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/dag"
 )
 
 // DfsSubgraph iterates all the event which are observed by head, and accepted by a filter
